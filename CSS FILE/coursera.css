@@ -1,0 +1,54 @@
+.yuvraj {
+    height: 20px;
+    /* background-color: gray; */
+    /* border: 10px solid green; */
+
+
+}
+
+header {
+    /* border: 2px solid red; */
+    background-color: rgb(119 119 119 / 35%);
+    margin: 0 auto;
+    width: 1500px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 41px;
+    color: whitesmoke;
+    /* background-color: rgb(224, 224, 224);  */
+    text-align: center;
+
+
+}
+
+a {
+    background-color: rgb(171, 173, 177);
+    color: black;
+    font-size: 17px;
+    display: inline-block;
+    /* margin-top: 5px; */
+    font-weight: bold;
+
+}
+
+.section {
+    background-color: grey;
+    width: 1500px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(13 13 150);
+}
+
+img {
+    display: none;
+}
